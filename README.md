@@ -7,3 +7,6 @@ Bot ini bisa mengidentifikasi tingkat energi yang dihasilkan alat elektronik.
 * Libary Discord.py
 * Model AI (Tensorflow)
 * Data set gambar
+
+## Fitur
+* 
